@@ -1,8 +1,15 @@
 [package]
 name = "crate-web"
-version = "0.1.0"
+version = "0.1.1"
 authors = ["Heeill Wang"]
 edition = "2018"
+description = "Open current crate's webpage on crates.io"
+license = "MIT"
+repository = "https://github.com/HeeillWang/crate-web"
+homepage = "https://github.com/HeeillWang/crate-web"
+readme = "README.md"
+keywords = ["crate", "browser"]
+categories = ["command-line-utilities"]
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
